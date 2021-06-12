@@ -1,0 +1,29 @@
+[
+    [
+        [
+            {"weight": 1.0, "library": "dataset/books/scales_package_simplified.json"},
+            {"weight": 0.2, "library": "dataset/books/20_exercises_for_augmented_scale_technique.json"}
+        ],
+        "dataset/books/15_approach_note_enclosure_exercises_for_jazz_musicians.json",
+        "dataset/books/jerry_bergonzi_inside_improvisation_vol_2.json"
+    ],
+    [
+        "dataset/books/50_II-V-I_phrases_package.json", 
+        "dataset/books/60_phrases_on_dominant_chords.json", 
+        "dataset/books/64_inside_out_phrases.json", 
+        "dataset/books/65_shredding_diminished_phrases.json", 
+        "dataset/books/69_modern_phrases.json", 
+        "dataset/books/hip_licks_volume_1.json", 
+        "dataset/books/hip_licks_volume_2.json"
+    ],
+    [
+        "dataset/books/bob_mintzer's_blues_solo_transcription.json",
+        "dataset/books/20_melodic_cell_etudes.json"
+    ],
+    [
+        "dataset/books/isolated_chord_progressions.json"
+    ],
+    [
+        "dataset/books/melodic_cell_package.json"
+    ]
+ ]
