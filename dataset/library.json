@@ -24,6 +24,6 @@
         "dataset/books/isolated_chord_progressions.json"
     ],
     [
-        "dataset/books/melodic_cell_package.json"
+        "dataset/books/melodic_cell_package.json",
     ]
  ]
